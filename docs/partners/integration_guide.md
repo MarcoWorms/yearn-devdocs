@@ -2,6 +2,8 @@
 title: Integration Methods
 ---
 
+We recommend that partners integrating with Yearn follow our [Technical News for Partners Telegram channel](https://t.me/joinchat/3_ZP5HWc_51iMzQ5)
+
 We propose two methods of integration, each used for different purposes. If you think of an integration method that is more ideal, we are open to accepting it.
 
 ## Wrapper
